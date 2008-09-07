@@ -1,0 +1,7 @@
+ScalaでServletを利用すときのquickstart用プロジェクト。
+
+mvnで作られてるので色々と楽できる。
+
+起動テスト:
+  $mvn run:jetty
+  ブラウザで「http://localhost:8080/hello」にアクセス
