@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <name>hello-scala-web</name>
   <properties>
-    <scala.version>2.7.1</scala.version>
+    <scala.version>2.13.1</scala.version>
   </properties>
 
   <repositories>
